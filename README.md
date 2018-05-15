@@ -1,2 +1,2 @@
 # hellow-world
-first github
+first in github
